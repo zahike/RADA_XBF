@@ -1,0 +1,3 @@
+﻿num,Add,RegName,MSB,LSB,Filedname,Filedtype,resetValue,description,
+0,0000,Cont,0,0,Start,TR,1'b0,Start Operation,
+1,0000,Cont,1,1,DMAsel,WR,1'b0,Start Operation,
